@@ -1,0 +1,6 @@
+[skill]
+  skill_package = "ai-research-guide.skill"
+  name = "ai-research-guide"
+  description = "提供计算机AI科研全流程指导，涵盖Idea发现、论文阅读、实验验证、性能优化、论文写作、Rebuttal策略等，适用于CVPR、ICCV、NeurIPS等顶会投稿及研究生科研能力培养"
+  project_name = "AI科研技能"
+  project_description = "AI科研全流程指导"
