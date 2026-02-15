@@ -1,0 +1,6 @@
+[skill]
+  skill_package = "dl-module-stitching.skill"
+  name = "dl-module-stitching"
+  description = "提供深度学习模型改进的实战技巧，涵盖残差连接、模块位置选择、超参数调整等8大核心策略，适用于模型性能调优、架构改进、创新模块集成等场景"
+  project_name = "残差连接优化技能"
+  project_description = "深度学习模块改进与缝合技巧"
